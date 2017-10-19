@@ -1,3 +1,4 @@
+//31511989	2017-10-19 18:02:01	Estevam	501A - Contest	GNU C++11	Accepted	31 ms	2100 KB
 #include <bits/stdc++.h>
 using namespace std;
 #define pb push_back

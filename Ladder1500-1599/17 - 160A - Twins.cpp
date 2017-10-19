@@ -1,3 +1,5 @@
+//31512132	2017-10-19 18:09:52	Estevam	160A - Twins	GNU C++11	Accepted	30 ms	2000 KB
+
 #include <bits/stdc++.h>
 using namespace std;
 #define pb push_back
