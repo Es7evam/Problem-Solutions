@@ -32,7 +32,7 @@ int main(){
 		stringstream ss(input);
 		int x = 0, y = 0, leak = 0, fph = 0;	//fuel per hundred
 		double res = 0.0, cur = 0.0;
-		string trash;
+		string thrash;
 		do {
 			stringstream ss(input);
 			ss >> y >> event;
@@ -49,8 +49,7 @@ int main(){
 			else if (event[0] == 'G')
 				cur = 0.0;	//gas station
 			else
-				ss >> trash >> fph;
-			//sscanf(input, "%d Fuel consumption %d", &y, &fph);
+				ss >> thrash >> fph;
 			x = y;
 		} while (getline(cin, input));
 
